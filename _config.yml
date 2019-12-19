@@ -118,7 +118,7 @@ author:
     url: masspacer@naver.com
   - label: "Website"
     icon: "fas fa-fw fa-link"
-    url: "http://massamall.com"
+    # url: "http://massamall.com"
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     # url: "https://twitter.com/"
