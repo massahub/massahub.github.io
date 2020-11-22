@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Masspace"
+title                    : "MASSA"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Masspacer"
+name                     : "zeroJ"
 description              : "Massa 기술 블로그"
 url                      : "https://massahub.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Masspacer"
+  name             : "zeroJ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "돈으로 시간을 사는 법"
+  bio              : "__기술블로그__"
   location         : "한국"
-  email            : 
+  email            : masspacer@gmail.com
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
-    url: masspacer@naver.com
+    url: masspacer@gmail.com
 
 # Reading Files
 include:
